@@ -1,17 +1,18 @@
-# aps-portfolio.github.io
 
-<dl>
-<dt>Course Name</dt>
-<dd>Algorithmic Problem Solving</dd>
-<dt>Course Code</dt>
-<dd>23ECSE309</dd>
-<dt>Name</dt>
-<dd>Vishesh Singh</dd>
-<dt>University</dt>
-<dd>KLE Technological University, Hubballi-31</dd>
-<dt>Problem Statement</dt>
-<dd>Youtube and its applications</dd>
-</dl>
+
+
+## Course Information
+
+* Course Name: Algorithmic Problem Solving
+* Course Code: 23ECSE309
+* Course Instructor: Prakash Hegade
+
+## Personal Information
+
+* Name: Vishesh Singh
+* USN: 01FE21BCI036
+* University: KLE Technological University, Hubballi
+
 
 * * *
 
@@ -19,12 +20,40 @@
 #### Note:
 This page hosts:
 
-1. Introduction
-2. Why Portfolio
-3. Objectives
-4. Design
-5. Challenges
-6. To-Do
+* [Introduction](#introduction)
+* [Why Video Streaming](#why-video-streaming)
+* [Objectives](#objectives)
+* [Business Cases Identified](#business-cases-identified)
+* [References](#references)
+
+
+
+## Introduction
+Welcome to my portfolio on YouTube and other video streaming platforms where I analysed the different data strutures and algorithms used in different operations and features provided by these platforms. I have analysed the algorithms on basis of the knowledge I get from the Algorithmic Problem Solving(APS) course taught at KLE Technological University. During this course, I explored the various algorithms, their time and space analysis and their other alternatives for optimization. This portfolio is a showcase of the learnings through various business cases each highlighting a different aspect of algorithmic problem solving.
+
+
+## Why Video Streaming
+YouTube is an American online video sharing platform owned by Google. Accessible worldwide. YouTube was launched on February 14, 2005, by Steve Chen, Chad Hurley, and Jawed Karim, three former employees of PayPal. Headquartered in San Bruno, California, United States, it is the second most visited website in the world. Its use advanced use data structures and algorithms for content creation, user specific recommendation is what attracted me towards it. YouTube's extensive ecosystem, including content creation, user interaction and live streaming provides a comprehensive case study.
+
+
+## Objectives
+* Analyze the different business cases which which has algorithmic problem solving approach for its application.
+* Showcase different algorithms and data structures learnt in APS course.
+* Illustrate how algorithmic problem solving can be applied to optimize and enhance various aspects of Video Streaming.
+* Provide a clear understanding of algorithms and data structures used.
+
+
+
+## Business Cases Identified
+
+**1. Autocomplete while searching
+
+
+
+## References
+
+
+
 
 
 
