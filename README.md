@@ -66,7 +66,7 @@ Improved user experience and alllows fast and efficient searching.
   * Time Complexity: O(len) for insertion, deletion, and lookup operations, where len is the length of the key (typically a word)
   * Space Complexity: O(ALPHABET_SIZE * len) where ALPHABET_SIZE is the number of possible characters and len is the length of the key.
 
-[Code for Tries](){:target="_blank"}
+[Code for Tries](https://github.com/Vishesh1110/aps.github.io/blob/main/codes/tries.cpp){:target="_blank"}
 
 ***Time and Space Complexity***
 * Time Complexity: O(len) for insertion, deletion, and lookup operations, where len is the length of the key (typically a word)
@@ -87,7 +87,7 @@ A Queue follows the principle of “First in, First out” (FIFO), where the fir
 * Time Complexity: O(1), 
 * Space Complexity: O(N), N: number of videos added
 
-[Code for Queues](){:target="_blank"}
+[Code for Queues](https://github.com/Vishesh1110/aps.github.io/blob/main/codes/queue.cpp){:target="_blank"}
 
 **3. Play in a Queue**
 
@@ -103,7 +103,7 @@ Users can play a set of videos of their choice in queue wihtout searching and pl
 * Time Complexity: O(1), 
 * Space Complexity: O(N), N: number of videos in the playlist
 
-[Code for Queues](){:target="_blank"}
+[Code for Queues](https://github.com/Vishesh1110/aps.github.io/blob/main/codes/queue.cpp){:target="_blank"}
 
 **4. Create playlist**
 
@@ -122,7 +122,7 @@ Better content segregation.
 * Insertion or removal of elements at start or end- O(1)
 
 
-[Code for deque](){:target="_blank"}
+[Code for deque](https://github.com/Vishesh1110/aps.github.io/blob/main/codes/deque.cpp){:target="_blank"}
 
 
 **5. YouTube Shorts Scrolling**
@@ -138,7 +138,7 @@ Scrolling short form video content to get informed or entertained in a matter of
 ***Time and Space Complexity***
 * Adding an element: O(1) (best case when added at the head), O(N) (worst case when added at the end)
 
-[Code for Linked List](){:target="_blank"}
+[Code for Linked List](https://github.com/Vishesh1110/aps.github.io/blob/main/codes/sll.c){:target="_blank"}
 
 
 **6. Live Location Services**
@@ -156,7 +156,7 @@ KD-Tree: Divide and conquer, Tree data structure
 Time Complexity: O(logn) on average for insertion and search operations (tree is balanced), O(n) in the worst case (tree is unbalanced), where n is the number of points in the tree.
 Space Complexity: O(n) where n is the number of points stored in the tree.
 
-[Code for KD Tress](){:target="_blank"}
+[Code for KD Tress](https://github.com/Vishesh1110/aps.github.io/blob/main/codes/kd_tree.cpp){:target="_blank"}
 
 
 **7. Live Premiering and Notifying**
@@ -171,7 +171,7 @@ Binary Search Trees are employed to manage and search scheduled events and remin
 * Time Complexity: O(logn) on average for insertion, deletion and search operations, O(n) in the worst case, where n is the number of nodes in the tree.
 * Space Complexity: O(n) where n is the number of nodes in the tree.
 
-[Code for Binary_Search_Tree](){:target="_blank"}
+[Code for Binary_Search_Tree](https://github.com/Vishesh1110/aps.github.io/blob/main/codes/bst.cpp){:target="_blank"}
 
 
 **8. Sort Videos based on Viewership**
@@ -189,7 +189,7 @@ Enhanced user/creator interaction.
 Time Complexity: O(n logn)
 Space Complexity: O(n), Additional space is required for the temporary array used during merging.
 
-[Code for Merge_Sort](){:target="_blank"}
+[Code for Merge_Sort](https://github.com/Vishesh1110/aps.github.io/blob/main/codes/merge_sort.cpp){:target="_blank"}
 
 
 **9. Video Quality Adjustment**
@@ -209,7 +209,7 @@ The time complexity for encoding each unique character based on its frequency is
 Extracting minimum frequency from the priority queue takes place 2*(n-1) times and its complexity is O(log n). Thus the overall complexity is O(nlog n).
 
 
-[Code for Huffman_Coding](){:target="_blank"}
+[Code for Huffman_Coding](https://github.com/Vishesh1110/aps.github.io/blob/main/codes/huffman_coding.cpp){:target="_blank"}
 
 
 **10. Video/Community Posts Ranking**
@@ -224,7 +224,7 @@ Better video recommendation can keep the user engaging and will help in retentio
 * Time Complexity: O(logn), since it uses BST internally so its insertion and deletion takes log(n) time complexity
 * Space Complexity: O(logn)
 
-[Code for Priority_queue](){:target="_blank"}
+[Code for Priority_queue](https://github.com/Vishesh1110/aps.github.io/blob/main/codes/priority_queue.cpp){:target="_blank"}
 
 
 **11. User Engagement Analysis**
@@ -239,7 +239,7 @@ For user engagement analysis on a YouTube channel, data structures should effici
 * Time Complexity: O(V+E), V is the number of nodes or the number of interactions and E is the number of edges/cnnections
 * Space Complexity: O(V)
 
-[Code for graphs](){:target="_blank"}
+[Code for graphs](https://github.com/Vishesh1110/aps.github.io/blob/main/codes/dfs.cpp){:target="_blank"}
 
 
 **12. Reply to Comments**
@@ -256,7 +256,7 @@ Replying to comments was introduced on YouTube to enhance user engagement and fo
 * Space Complexity: O(N)
 
   
-[Code for Trees](){:target="_blank"}
+[Code for Trees](https://github.com/Vishesh1110/aps.github.io/blob/main/codes/binary_tree.cpp){:target="_blank"}
 
 
 **14. User Data Safety/Security**
@@ -273,7 +273,7 @@ Data structures for user data safety and security must support encryption to pro
 * Space Complexity: O(1), fixed size output regardless of input.
 
 
-[Code for Hashing](){:target="_blank"}
+[Code for Hashing](https://github.com/Vishesh1110/aps.github.io/blob/main/codes/hashing.cpp){:target="_blank"}
 
 
 **15. Optimizing User Recommendations based on watch history**
@@ -287,7 +287,7 @@ Lazy propagation can be used in optimizing user recommendations by deferring upd
 ***Time and Space Complexity***
 * Time Complexity: O(N)
 
-[Code for segment_tree](){:target="_blank"}
+[Code for segment_tree](https://github.com/Vishesh1110/aps.github.io/blob/main/codes/segment_tree.cpp){:target="_blank"}
 
 ## References
 
