@@ -176,6 +176,8 @@ Binary Search Trees are employed to manage and search scheduled events and remin
 
 **8. Sort Videos based on Viewership**
 
+<img width="822" alt="sort_view" src="https://github.com/Vishesh1110/aps_portfolio/assets/79099604/800afc94-ae8f-4652-8402-63ef82d8ad7a">
+
 ***Use Case***
 Users can get to know their creators or celebs in a much better way checking out their most viewed/least viewed content
 
@@ -193,6 +195,8 @@ Space Complexity: O(n), Additional space is required for the temporary array use
 
 
 **9. Video Quality Adjustment**
+
+<img width="362" alt="vid_quality" src="https://github.com/Vishesh1110/aps_portfolio/assets/79099604/42f89d67-280c-4083-b767-c4a9a9e3b2f8">
 
 ***Use Case***
 Users can adjust the video quality according to the network service strength available in thst area.
@@ -228,6 +232,8 @@ Better video recommendation can keep the user engaging and will help in retentio
 
 
 **11. User Engagement Analysis**
+
+<img width="553" alt="user_eng_anls" src="https://github.com/Vishesh1110/aps_portfolio/assets/79099604/60cbb3e6-c9bb-4d26-b357-b5cfc6be86c3">
 
 ***Use Case***
 User engagement analysis requires the ability to collect and process large volumes of interaction data, such as views, likes, comments, and shares. Efficient data structures like hash maps and arrays are needed for quick data retrieval and aggregation. Additionally, machine learning algorithms are essential to derive insights and identify patterns in user behavior.
