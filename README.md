@@ -108,7 +108,7 @@ Users can play a set of videos of their choice in queue wihtout searching and pl
 ### **4. Create playlist**
 
 ***Use Case***
-Users/Channel Owners can create a separate playlist for the different content in different domains published by them.
+Users/Channel Owners can create a separate playlist for their different content in different domains published by them.
 
 ***Benefit***
 Better content segregation.
@@ -132,6 +132,7 @@ Scrolling short form video content to get informed or entertained in a matter of
 
 ***Algorithms***
 * Linked List: A linked list is a linear data structure that consists of a series of nodes connected by pointers. Each node contains data and a reference to the next node in the list. Unlike arrays, linked lists allow for efficient insertion or removal of elements from any position in the list, as the nodes are not stored contiguously in memory.
+* Linked lists can facilitate YouTube Shorts scrolling by efficiently managing a dynamic sequence of short video segments. They allow for flexible insertion and deletion operations, accommodating real-time updates to the feed. Linked lists also support seamless navigation through videos, providing a smooth and responsive scrolling experience for users.
   
 <img width="700" alt="sll" src="https://github.com/Vishesh1110/aps_portfolio/assets/79099604/1a20b10e-6494-4017-ac21-170fa3df2f8a">
 
@@ -150,7 +151,8 @@ Scrolling short form video content to get informed or entertained in a matter of
 * Proof of Authentication of the content uploaded.
 
 ***Algorithms***
-KD-Tree: Divide and conquer, Tree data structure
+* KD-Tree: Divide and conquer, Tree data structure
+* KD trees can enhance live location services by efficiently organizing and querying spatial data. They enable quick nearest-neighbor searches, allowing the service to find and update the nearest points of interest or users in real-time. This results in fast and accurate location-based recommendations and updates.
 
 ***Time and Space Complexity***
 Time Complexity: O(logn) on average for insertion and search operations (tree is balanced), O(n) in the worst case (tree is unbalanced), where n is the number of points in the tree.
@@ -166,6 +168,7 @@ Binary Search Trees are employed to manage and search scheduled events and remin
 
 ***Algorithms***
 * Binary Search Tree: Binary search tree follows all properties of binary tree and its left child contains values less than the parent node and the right child contains values greater than the parent node. This hierarchical structure allows for efficient Searching, Insertion, and Deletion operations on the data stored in the tree.
+* Binary search trees (BSTs) can facilitate live premiering and notifying by efficiently organizing and retrieving scheduled premiere times. Nodes can represent scheduled events sorted by time, allowing quick insertion and deletion operations. BST traversal enables timely notifications to users based on upcoming premieres, ensuring a smooth and organized viewing experience.
 
 ***Time and Space Complexity***
 * Time Complexity: O(logn) on average for insertion, deletion and search operations, O(n) in the worst case, where n is the number of nodes in the tree.
