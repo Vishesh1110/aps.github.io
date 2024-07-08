@@ -50,7 +50,7 @@ YouTube is an American online video sharing platform owned by Google. Accessible
 ## Business Cases Identified
 
 
-**1. Autocomplete while searching**
+### **1. Autocomplete while searching**
 
 <img width="800" alt="yt_search" src="https://github.com/Vishesh1110/aps.github.io/assets/79099604/ca18eeaa-a8d4-4ccd-bf50-d6d4b708b518">
 
@@ -73,7 +73,7 @@ Improved user experience and alllows fast and efficient searching.
 * Space Complexity: O(ALPHABET_SIZE * len) where ALPHABET_SIZE is the number of possible characters and len is the length of the key.
 
 
-**2. Add to Queue**
+### **2. Add to Queue**
 
 ***Use Case***
 Users can add a video of their choice in queue wihtout searching and playing it repeatedly. 
@@ -89,7 +89,7 @@ A Queue follows the principle of “First in, First out” (FIFO), where the fir
 
 [Code for Queues](https://github.com/Vishesh1110/aps.github.io/blob/main/codes/queue.cpp){:target="_blank"}
 
-**3. Play in a Queue**
+### **3. Play in a Queue**
 
 ***Use Case***
 Users can play a set of videos of their choice in queue wihtout searching and playing them repeatedly. 
@@ -105,7 +105,7 @@ Users can play a set of videos of their choice in queue wihtout searching and pl
 
 [Code for Queues](https://github.com/Vishesh1110/aps.github.io/blob/main/codes/queue.cpp){:target="_blank"}
 
-**4. Create playlist**
+### **4. Create playlist**
 
 ***Use Case***
 Users/Channel Owners can create a separate playlist for the different content in different domains published by them.
@@ -125,7 +125,7 @@ Better content segregation.
 [Code for deque](https://github.com/Vishesh1110/aps.github.io/blob/main/codes/deque.cpp){:target="_blank"}
 
 
-**5. YouTube Shorts Scrolling**
+### **5. YouTube Shorts Scrolling**
 
 ***Use Case***
 Scrolling short form video content to get informed or entertained in a matter of seconds.
@@ -141,7 +141,7 @@ Scrolling short form video content to get informed or entertained in a matter of
 [Code for Linked List](https://github.com/Vishesh1110/aps.github.io/blob/main/codes/sll.c){:target="_blank"}
 
 
-**6. Live Location Services**
+### **6. Live Location Services**
 
 ***Use Case***
 * YouTube uses the Google Maps Services whihc internally uses the KD-Trees to efficiently store and query geotagged content (posts, stories) based on proximity to a user's location, enhancing the user experience by surfacing location-relevant content.
@@ -159,7 +159,7 @@ Space Complexity: O(n) where n is the number of points stored in the tree.
 [Code for KD Tress](https://github.com/Vishesh1110/aps.github.io/blob/main/codes/kd_tree.cpp){:target="_blank"}
 
 
-**7. Live Premiering and Notifying**
+### **7. Live Premiering and Notifying**
 
 ***Use Case***
 Binary Search Trees are employed to manage and search scheduled events and reminders within Google’s notification systems. BSTs facilitate efficient insertion, deletion, and retrieval operations based on event timestamps.
@@ -174,7 +174,7 @@ Binary Search Trees are employed to manage and search scheduled events and remin
 [Code for Binary_Search_Tree](https://github.com/Vishesh1110/aps.github.io/blob/main/codes/bst.cpp){:target="_blank"}
 
 
-**8. Sort Videos based on Viewership**
+### **8. Sort Videos based on Viewership**
 
 <img width="822" alt="sort_view" src="https://github.com/Vishesh1110/aps_portfolio/assets/79099604/800afc94-ae8f-4652-8402-63ef82d8ad7a">
 
@@ -185,6 +185,8 @@ Users can get to know their creators or celebs in a much better way checking out
 Enhanced user/creator interaction.
 
 ***Algorithms***
+Sorting videos based on views for a YouTube channel requires data structures capable of efficiently storing and retrieving view counts, such as balanced binary search trees or hash maps. Algorithms like quicksort or mergesort can then be applied to sort videos by view count, providing insights into popular content and facilitating strategic content promotion. Scalability and real-time updates are essential to handle the continuous influx of view data on a large platform like YouTube.
+
 * Merge Sort: Merge sort is a sorting algorithm that follows the divide-and-conquer approach. It works by recursively dividing the input array into smaller subarrays and sorting those subarrays then merging them back together to obtain the sorted array.
 
 ***Time and Space Complexity***
@@ -194,12 +196,12 @@ Space Complexity: O(n), Additional space is required for the temporary array use
 [Code for Merge_Sort](https://github.com/Vishesh1110/aps.github.io/blob/main/codes/merge_sort.cpp){:target="_blank"}
 
 
-**9. Video Quality Adjustment**
+### **9. Video Quality Adjustment**
 
 <img width="362" alt="vid_quality" src="https://github.com/Vishesh1110/aps_portfolio/assets/79099604/42f89d67-280c-4083-b767-c4a9a9e3b2f8">
 
 ***Use Case***
-Users can adjust the video quality according to the network service strength available in thst area.
+Video quality adjustment requires dynamic bitrate adaptation based on network conditions, device capabilities, and user preferences. Efficient data structures are needed to store and manage multiple versions of video streams (bitrates) and quickly switch between them during playback. Algorithms like adaptive bitrate streaming (ABR) ensure optimal viewing experience by adjusting video quality in real-time.
 
 ***Benefit***
 Users can view their content even when there is poor network.
@@ -216,7 +218,7 @@ Extracting minimum frequency from the priority queue takes place 2*(n-1) times a
 [Code for Huffman_Coding](https://github.com/Vishesh1110/aps.github.io/blob/main/codes/huffman_coding.cpp){:target="_blank"}
 
 
-**10. Video/Community Posts Ranking**
+### **10. Video/Community Posts Ranking**
 
 ***Use Case***
 Better video recommendation can keep the user engaging and will help in retention of the user for a longer time, so the posts/videos are assigned a priority based on user interaction and its watch history.
@@ -231,7 +233,7 @@ Better video recommendation can keep the user engaging and will help in retentio
 [Code for Priority_queue](https://github.com/Vishesh1110/aps.github.io/blob/main/codes/priority_queue.cpp){:target="_blank"}
 
 
-**11. User Engagement Analysis**
+### **11. User Engagement Analysis**
 
 <img width="553" alt="user_eng_anls" src="https://github.com/Vishesh1110/aps_portfolio/assets/79099604/60cbb3e6-c9bb-4d26-b357-b5cfc6be86c3">
 
@@ -248,7 +250,7 @@ For user engagement analysis on a YouTube channel, data structures should effici
 [Code for graphs](https://github.com/Vishesh1110/aps.github.io/blob/main/codes/dfs.cpp){:target="_blank"}
 
 
-**12. Reply to Comments**
+### **12. Reply to Comments**
 
 ***Use Case***
 Replying to comments was introduced on YouTube to enhance user engagement and foster community interactions. It allows users to have meaningful conversations, provide feedback, and build connections directly within the platform. This feature helps create a more interactive and engaging environment for both content creators and viewers.
@@ -265,7 +267,7 @@ Replying to comments was introduced on YouTube to enhance user engagement and fo
 [Code for Trees](https://github.com/Vishesh1110/aps.github.io/blob/main/codes/binary_tree.cpp){:target="_blank"}
 
 
-**14. User Data Safety/Security**
+### **14. User Data Safety/Security**
 
 ***Use Case***
 User data safety and security require robust encryption methods to protect data in transit and at rest, secure data structures like encrypted databases for storing sensitive information, and access control mechanisms to ensure only authorized users can access or modify the data. Additionally, regular security audits and updates are essential to mitigate potential vulnerabilities.
@@ -282,7 +284,7 @@ Data structures for user data safety and security must support encryption to pro
 [Code for Hashing](https://github.com/Vishesh1110/aps.github.io/blob/main/codes/hashing.cpp){:target="_blank"}
 
 
-**15. Optimizing User Recommendations based on watch history**
+### **15. Optimizing User Recommendations based on watch history**
 
 ***Use Case***
 Optimizing user recommendations based on watch history requires the ability to store and efficiently access large amounts of user-specific data, process this data in real-time to identify patterns and preferences, and use machine learning algorithms to generate personalized content suggestions.
@@ -302,6 +304,7 @@ Lazy propagation can be used in optimizing user recommendations by deferring upd
 * https://www.programiz.com/dsa/huffman-coding
 * https://www.geeksforgeeks.org/lazy-propagation-in-segment-tree/
 * https://cp-algorithms.com/data_structures/segment_tree.html
+* https://en.wikipedia.org/wiki/Huffman_coding#Applications
 
 
 * * *
