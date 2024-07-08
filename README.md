@@ -46,8 +46,55 @@ YouTube is an American online video sharing platform owned by Google. Accessible
 
 ## Business Cases Identified
 
-**1. Autocomplete while searching
 
+**1. Autocomplete while searching**
+
+<img width="900" alt="yt_search" src="https://github.com/Vishesh1110/aps.github.io/assets/79099604/ca18eeaa-a8d4-4ccd-bf50-d6d4b708b518">
+
+
+
+**2. Play in a Queue**
+
+
+
+**3. Add to Queue**
+
+
+
+**4. Create playlist**
+
+
+**5. YouTube Shorts Scrolling**
+
+
+**6. Live Location Services**
+
+
+**7. Live Premiering and Notifying**
+
+
+**8. Sort Videos based on Viewership**
+
+
+**9. Video Quality Adjustment**
+
+
+**10. Video/Community Posts Ranking**
+
+
+**11. User Engagement Analysis**
+
+
+**12. Reply to Comments**
+
+
+**13. User Engagement Analysis**
+
+
+**14. User Data Safety/Security**
+
+
+**15. Optimizing User Recommendations based on watch history**
 
 
 ## References
